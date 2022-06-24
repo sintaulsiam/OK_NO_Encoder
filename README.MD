@@ -1,5 +1,5 @@
-# YESNO
-Its a encoder to encode message as yes no  binary form
+# OKNO
+Its a encoder to encode message as OK NO  binary form
 
 
 
@@ -7,7 +7,7 @@ Its a encoder to encode message as yes no  binary form
 
 ```sh
 > -e message to encode 
-> -d YES NO NO YES YEs  #to decode
+> -d OK NO NO OK OK  #to decode
 > -c #to clear the terminal
 ```
 ## License
